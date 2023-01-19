@@ -1032,7 +1032,7 @@ dataSet[dataSetVersion].characterData = [
   },
   {
     name: "Ibaraki Kasen",
-    img: "dQHnPPe.png",
+    img: "iKESYzH.png",
     opts: {
       series: ["book", "ULiL", "AoCF"],
       stage: ["st5"]
